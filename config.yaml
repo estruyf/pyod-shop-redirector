@@ -1,0 +1,17 @@
+baseURL: "https://pyod.shop/"
+languageCode: "en-us"
+title: "Pimp Your Own Device - Sticker Shop"
+googleAnalytics: UA-161271356-1
+
+params:
+  description: "Pimp Your Own Device sticker shop redirector"
+  storeUrl: "https://pimpyourowndevice.com"
+
+permalinks:
+  pages: /:slug/
+
+outputs:
+  home: 
+    - html
+
+disableKinds: ["taxonomy", "taxonomyTerm"]

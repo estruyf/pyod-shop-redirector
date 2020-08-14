@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    {{ with .Title }}<title>{{ . }}</title>{{ end }}
+    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+
+    <script>
+      (function(e,t,n,i,s,a,c){e[n]=e[n]||function(){(e[n].q=e[n].q||[]).push(arguments)}
+      ;a=t.createElement(i);c=t.getElementsByTagName(i)[0];a.async=true;a.src=s
+      ;c.parentNode.insertBefore(a,c)
+      })(window,document,"galite","script","https://cdn.jsdelivr.net/npm/ga-lite@2/dist/ga-lite.min.js");
+      
+      galite('create', '{{ $.Site.GoogleAnalytics }}', 'auto');
+      galite('set', 'anonymizeIp', true);
+      galite('send', 'event', 'pyod redirect', '{{ .Permalink }}')
+    </script>
+
+    <meta charset="utf-8">
+    <meta name="robots" content="nofollow">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.BaseURL }}/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ .Site.BaseURL }}/img/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}/img/favicon-16x16.png">
+
+    {{ block "redirect" . }}{{ end }}
+
+    <style>
+      html, body, div {
+        height: 100%;
+      }
+
+      div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+      }
+
+      h1, a, a:link, a:visited, a:hover {
+        color: #0b525e;
+      }
+
+      a { 
+        display: contents;
+        text-align: center; 
+      }
+
+      img {
+        max-width: 50%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div>
+      {{ block "main" . }}{{ end }}
+
+      <a href="{{ .Site.Params.storeUrl }}" alt="{{ .Title }}"><img src="/img/pyod.png" alt="Pimp Your Own Device - Sticker Shop" /></a>
+    </div>
+  </body>
+</html>

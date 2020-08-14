@@ -1,0 +1,34 @@
+{
+  "name": "stickers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node scripts/inventory.js && node scripts/create-stickers.js",
+    "start": "npm run generate && hugo serve --gc",
+    "build": "hugo -e development",
+    "ngrok": "npm-run-all --parallel ngrok:* theme:*",
+    "ngrok:start": "./ngrok start -config ./ngrok.yml pyod",
+    "ngrok:test": "hugo server -D -b pyod-testing.eu.ngrok.io --appendPort=False",
+    "start:dev": "concurrently \"hugo serve\" \"npm run theme:build\"",
+    "theme:build": "cd themes/pyod && npm run start:dev",
+    "production": "hugo && cd themes/pyod && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estruyf/web-pimpyourowndevice-hugo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estruyf/web-pimpyourowndevice-hugo/issues"
+  },
+  "homepage": "https://github.com/estruyf/web-pimpyourowndevice-hugo#readme",
+  "dependencies": {
+    "node-fetch": "2.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "8.2.0"
+  }
+}
