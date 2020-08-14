@@ -27,6 +27,8 @@ jobs:
       - run: npm install
 
       - run: npm run generate
+        env:
+          FUNCTION_URL: ${{ secrets.FUNCTION_URL }}
 
       - name: Build And Deploy
         id: builddeploy
