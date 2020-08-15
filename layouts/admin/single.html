@@ -54,7 +54,7 @@
     <div class="pure-u-1-3"><strong>Original</strong></div>
   </div>
   {{ range sort (where .Site.Pages "Type" "stickers") ".Params.id" "desc" }}
-    {{ $url := printf "%s/stickers/%s/" (.Site.Params.storeUrl) (urlize .Title) }}
+    {{ $url := printf "%s/stickers/%s/" (.Site.Params.storeUrl) (urlize .Params.orgSlug) }}
     <div class="pure-g">
       <div class="pure-u-1-3">{{ .Title }}</div>
       <div class="pure-u-1-3">  

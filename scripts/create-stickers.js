@@ -48,6 +48,7 @@ if (stickersTxt) {
     const stickerPage = `---
 id: ${sticker.id}
 title: "${sticker.name}"
+orgSlug: "${sticker.name.toLowerCase().replace(/[^\w\s]/gi, '').replace(/ /g, '-').trim()}"
 description: "${sticker.description}"
 draft: false
 community: ${sticker.community}
