@@ -1,4 +1,4 @@
-{{ define "redirect" }}
+{{ define "header" }}
   {{ $url := printf "%s/stickers/%s/" (.Site.Params.storeUrl) (urlize .Title) }}
   {{ if not .IsHome }}
     <meta http-equiv = "refresh" content = "0; url = {{ $url }}" />

@@ -23,22 +23,25 @@
     <link rel="icon" type="image/png" sizes="96x96" href="{{ .Site.BaseURL }}/img/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}/img/favicon-16x16.png">
 
-    {{ block "redirect" . }}{{ end }}
-
     <style>
+      {{ partial "reset.css" | safeCSS}}
+
       html, body, div {
         height: 100%;
+        word-break: break-word;
       }
 
-      div {
+      div.main {
         display: flex;
         justify-content: center;
         align-items: center;
         flex-direction: column;
       }
 
-      h1, a, a:link, a:visited, a:hover {
+      div.main h1, div.main a, div.main a:link, div.main a:visited, div.main a:hover {
         color: #0b525e;
+        text-align: center;
+        margin-bottom: 2rem;
       }
 
       a { 
@@ -46,17 +49,21 @@
         text-align: center; 
       }
 
-      img {
+      div.main img {
         max-width: 50%;
       }
     </style>
+
+    {{ block "header" . }}{{ end }}
   </head>
 
   <body>
-    <div>
+    <div class="main">
       {{ block "main" . }}{{ end }}
 
       <a href="{{ .Site.Params.storeUrl }}" alt="{{ .Title }}"><img src="/img/pyod.png" alt="Pimp Your Own Device - Sticker Shop" /></a>
     </div>
+
+    {{ block "second" . }}{{ end }}
   </body>
 </html>
