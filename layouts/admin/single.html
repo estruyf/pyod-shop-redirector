@@ -40,36 +40,9 @@
     text-align: center;
   }
 </style>
-
-<script>
-  let toastTimeout = null;
-  const copyUrl = (elm) => {
-    const url = elm.getAttribute("data-url");
-    const input = document.querySelector('input.copy');
-    const toast = document.querySelector('.toast');
-    if (url && input && toast) {
-      if (toastTimeout) {
-        clearTimeout(toastTimeout);
-      }
-      input.value = url;
-      input.select();
-      input.setSelectionRange(0, 99999);
-      document.execCommand("copy");
-      input.value = "";
-
-      toast.innerText = `Copied URL: ${url}`;
-      toast.style.display = 'block';
-
-      toastTimeout = setTimeout(() => {
-        toast.style.display = 'none';
-      }, 3000);
-    }
-  };
-</script>
 {{ end }}
 
 {{ define "second" }}
-<input class="copy" type="text" />
 <div class="wrapper">
   <div class="pure-g">
     <div class="pure-u-1-3"><strong>Title</strong></div>
@@ -80,8 +53,9 @@
     {{ $url := printf "%s/stickers/%s/" (.Site.Params.storeUrl) (urlize .Title) }}
     <div class="pure-g">
       <div class="pure-u-1-3">{{ .Title }}</div>
-      <div class="pure-u-1-3">      
-        <button class="pure-button" onclick="copyUrl(this)" data-url="{{ .Permalink | absURL }}">Copy</button>
+      <div class="pure-u-1-3">  
+        <input id="copy-{{.Params.id}}" class="codpy" value="{{ .Permalink | absURL }}">    
+        <button class="pure-button" data-clipboard-target="#copy-{{.Params.id}}">Copy</button>
       </div>
       <div class="pure-u-1-3"><a href="{{ $url }}">Go to PYOD</a></div>
     </div>
@@ -91,4 +65,26 @@
 <div class="toast">
 
 </div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js"></script>
+<script>
+  const clipboard = new ClipboardJS('.pure-button');
+  const toast = document.querySelector('.toast');
+  let toastTimeout = null;
+
+  clipboard.on('success', (e) => {
+    if (toastTimeout) {
+      clearTimeout(toastTimeout);
+    }
+
+    toast.innerText = `Copied URL: ${e.text}`;
+    toast.style.display = 'block';
+
+    toastTimeout = setTimeout(() => {
+      toast.style.display = 'none';
+    }, 3000);
+
+    // e.clearSelection();
+  });
+</script>
 {{ end }}
