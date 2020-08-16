@@ -54,6 +54,7 @@ draft: false
 community: ${sticker.community}
 type: stickers
 slug: "${folderName}"
+image: "${sticker.image}"
 ---
 `;
 
