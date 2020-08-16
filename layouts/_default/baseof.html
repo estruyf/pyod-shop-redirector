@@ -23,6 +23,8 @@
     <link rel="icon" type="image/png" sizes="96x96" href="{{ .Site.BaseURL }}/img/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.BaseURL }}/img/favicon-16x16.png">
 
+    {{ partial "seo.html" . }}
+
     <style>
       {{ partial "reset.css" | safeCSS}}
 

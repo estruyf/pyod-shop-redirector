@@ -1,0 +1,38 @@
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@own_pimp">
+<meta property="og:site_name" content="Pimp Your Own Device - Stickers" />
+{{ if or (eq .Type "stickers") (eq .Type "community") }}
+<meta property="og:type" content="product" />
+<meta name="twitter:image" content="https://pimpyourowndevice.com/stickers/{{.Params.image}}">
+<meta property='og:image' content="https://pimpyourowndevice.com/stickers/{{.Params.image}}">
+<meta property="product:price:amount" content="{{ .Params.price }}">
+<meta property="product:price:currency" content="eur">
+  {{ with .Params.title }}
+  <meta name="twitter:title" content="{{ . }}">
+  <meta property='og:title' content="{{ . }}">
+  {{ end }}
+  {{ with .Params.description }}
+  <meta name="twitter:description" content="{{ . }}">
+  <meta property='og:description' content="{{ . }}">
+  {{ end }}
+{{ else }}
+<meta property="og:type" content="website" />
+<meta name="twitter:image" content="https://pimpyourowndevice.com/stickers/pyod.png">
+<meta property='og:image' content="https://pimpyourowndevice.com/stickers/pyod.png">
+  {{ with .Title }}
+  <meta name="twitter:title" content="{{ . }}">
+  <meta property='og:title' content="{{ . }}">
+  {{ end }}
+  {{ with .Site.Params.description }}
+  <meta name="twitter:description" content="{{ . }}">
+  <meta property='og:description' content="{{ . }}">
+  {{ end }}
+{{ end }}
+
+<meta name="twitter:domain" content="pimpyourowndevice.com">
+{{ if not .IsHome }}
+{{ $url := printf "%s/stickers/%s/" (.Site.Params.storeUrl) (urlize .Params.orgSlug) }}
+<meta property='og:url' content="{{ $url }}">
+{{ else }}
+<meta property='og:url' content="{{ .Site.Params.storeUrl }}">
+{{ end }}
