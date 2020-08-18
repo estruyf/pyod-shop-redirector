@@ -3,6 +3,10 @@
 
 - Manual / http trigger for PowerAutomate
 
+## 2020-08-18
+
+- 🐞 Bug fix for community stickers ✅
+
 ## 2020-08-15
 
 - Added twitter cards ✅
