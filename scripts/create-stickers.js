@@ -54,7 +54,7 @@ draft: false
 community: ${sticker.community}
 type: stickers
 slug: "${folderName}"
-image: "${sticker.image}"
+image: "https://ik.imagekit.io/pyodstickers/stickers/${sticker.image}"
 ---
 `;
 
