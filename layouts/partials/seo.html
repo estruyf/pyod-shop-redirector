@@ -3,8 +3,8 @@
 <meta property="og:site_name" content="Pimp Your Own Device - Stickers" />
 {{ if or (eq .Type "stickers") (eq .Type "community") }}
 <meta property="og:type" content="product" />
-<meta name="twitter:image" content="https://pimpyourowndevice.com/stickers/{{.Params.image}}">
-<meta property='og:image' content="https://pimpyourowndevice.com/stickers/{{.Params.image}}">
+<meta name="twitter:image" content="{{.Params.image}}">
+<meta property='og:image' content="{{.Params.image}}">
 <meta property="product:price:amount" content="{{ .Params.price }}">
 <meta property="product:price:currency" content="eur">
   {{ with .Params.title }}
