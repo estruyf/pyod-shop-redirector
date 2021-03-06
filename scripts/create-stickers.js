@@ -55,6 +55,7 @@ community: ${sticker.community}
 type: stickers
 slug: "${folderName}"
 image: "https://ik.imagekit.io/pyodstickers/stickers/${sticker.image}"
+price: "${sticker.price}"
 ---
 `;
 

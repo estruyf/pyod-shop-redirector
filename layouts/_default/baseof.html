@@ -53,6 +53,7 @@
 
       div.main img {
         max-width: 50%;
+        border-radius: 50%;
       }
     </style>
 
@@ -63,7 +64,13 @@
     <div class="main">
       {{ block "main" . }}{{ end }}
 
-      <a href="{{ .Site.Params.storeUrl }}" alt="{{ .Title }}"><img src="/img/pyod.png" alt="Pimp Your Own Device - Sticker Shop" /></a>
+      <a href="{{ .Site.Params.storeUrl }}" alt="{{ .Title }}">
+        {{ if .Params.image }}
+        <img src="{{.Params.image}}" alt="{{ .Title }}" />
+        {{ else }}
+        <img src="/img/pyod.png" alt="Pimp Your Own Device - Sticker Shop" />
+        {{ end }}
+      </a>
     </div>
 
     {{ block "second" . }}{{ end }}

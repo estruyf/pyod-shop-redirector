@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "generate": "node scripts/inventory.js && node scripts/create-stickers.js",
-    "start": "npm run generate && hugo serve --gc",
+    "start": "hugo serve --gc",
     "build": "hugo -e development",
     "ngrok": "npm-run-all --parallel ngrok:* theme:*",
     "ngrok:start": "./ngrok start -config ./ngrok.yml pyod",
