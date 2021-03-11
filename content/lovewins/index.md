@@ -1,4 +1,4 @@
 ---
 title: "Love over"
-type: love
+type: lovewins
 ---
