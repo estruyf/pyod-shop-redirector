@@ -49,7 +49,7 @@ if (stickersTxt) {
 id: ${sticker.id}
 title: "${sticker.name}"
 orgSlug: "${sticker.name.toLowerCase().replace(/[^\w\s]/gi, '').replace(/ /g, '-').trim()}"
-description: "${sticker.description}"
+description: "${sticker.description.replace(/"/g, `\\"`)}"
 draft: false
 community: ${sticker.community}
 type: stickers
