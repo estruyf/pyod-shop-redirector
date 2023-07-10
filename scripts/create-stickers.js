@@ -9,7 +9,7 @@ const path = require('path');
  * @param {*} size 
  */
 const pad = (num, size) => {
-  var s = num+"";
+  var s = num + "";
   while (s.length < size) s = "0" + s;
   return s;
 }
@@ -27,7 +27,18 @@ const pad = (num, size) => {
     "dimensions": "8,9 x 3,0 cm"
   }
  */
-const stickersTxt = fs.readFileSync(path.join(__dirname, `../stickers.json`), { encoding: "utf8"} );
+const stickersTxt = fs.readFileSync(path.join(__dirname, `../stickers.json`), {
+  encoding: "utf8"
+});
+
+const alias = (sticker) => {
+  if (sticker.id === 133) {
+    return `code-saver-fixing-the-`;
+  }
+
+  return sticker.name.toLowerCase().replace(/[^\w\s]/gi, '').replace(/ /g, '-').trim();
+}
+
 if (stickersTxt) {
   const stickers = JSON.parse(stickersTxt);
   for (const sticker of stickers) {
@@ -48,7 +59,7 @@ if (stickersTxt) {
     const stickerPage = `---
 id: ${sticker.id}
 title: "${sticker.name}"
-orgSlug: "${sticker.name.toLowerCase().replace(/[^\w\s]/gi, '').replace(/ /g, '-').trim()}"
+orgSlug: "${alias(sticker)}"
 description: "${sticker.description.replace(/"/g, `\\"`)}"
 draft: false
 community: ${sticker.community}
@@ -59,6 +70,8 @@ price: "${sticker.price}"
 ---
 `;
 
-    fs.writeFileSync(path.join(folderDir, `index.md`), stickerPage, { encoding: "utf8" });
+    fs.writeFileSync(path.join(folderDir, `index.md`), stickerPage, {
+      encoding: "utf8"
+    });
   }
 }
