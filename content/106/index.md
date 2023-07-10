@@ -10,5 +10,5 @@ community: false
 type: stickers
 slug: "106"
 image: "https://ik.imagekit.io/pyodstickers/stickers/i-hate-love-stickers.png"
-price: "3.50"
+price: "3.00"
 ---

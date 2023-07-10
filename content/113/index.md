@@ -8,5 +8,5 @@ community: true
 type: stickers
 slug: "113"
 image: "https://ik.imagekit.io/pyodstickers/stickers/powerplatty_automate.png"
-price: "3.50"
+price: "3.00"
 ---

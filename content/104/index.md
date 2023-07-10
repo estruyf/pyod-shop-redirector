@@ -8,5 +8,5 @@ community: false
 type: stickers
 slug: "104"
 image: "https://ik.imagekit.io/pyodstickers/stickers/back-end.png"
-price: "3.50"
+price: "3.00"
 ---

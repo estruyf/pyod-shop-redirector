@@ -8,5 +8,5 @@ community: false
 type: stickers
 slug: "101"
 image: "https://ik.imagekit.io/pyodstickers/stickers/rubberduck.png"
-price: "3.50"
+price: "3.00"
 ---

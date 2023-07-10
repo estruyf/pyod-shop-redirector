@@ -18,7 +18,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "2",
@@ -26,11 +27,11 @@
     "dimensions": "4,6 x 5 cm",
     "image": "benny-glitter-2.png",
     "inStock": true,
-    "amount": 66,
+    "amount": 63,
     "name": "Benny Glitter",
-    "price": "4.00",
+    "price": "3.50",
     "type": "glitter",
-    "sold": 34,
+    "sold": 37,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -39,7 +40,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "3",
@@ -60,7 +62,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "4",
@@ -81,7 +84,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "5",
@@ -102,7 +106,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "6",
@@ -110,11 +115,11 @@
     "dimensions": "4,0 x 3,9 cm",
     "image": "instead-of-thinking-features-2.png",
     "inStock": true,
-    "amount": 40,
+    "amount": 36,
     "name": "Instead of thinking features",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 54,
+    "sold": 58,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -127,7 +132,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "7",
@@ -135,11 +141,11 @@
     "dimensions": "5,0 x 3,8 cm",
     "image": "turning-on-off-2.png",
     "inStock": true,
-    "amount": 19,
+    "amount": 6,
     "name": "Have you tried turning it off and on again?",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 61,
+    "sold": 74,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -150,7 +156,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "8",
@@ -160,7 +167,7 @@
     "inStock": true,
     "amount": 77,
     "name": "Decent AF",
-    "price": "4.00",
+    "price": "3.50",
     "type": "transparent",
     "sold": 3,
     "forSale": true,
@@ -173,7 +180,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "9",
@@ -181,11 +189,11 @@
     "dimensions": "8,9 x 3,0 cm",
     "image": "devops-2.png",
     "inStock": true,
-    "amount": 18,
+    "amount": 14,
     "name": "DevOps",
-    "price": "4.00",
+    "price": "3.50",
     "type": "holographic",
-    "sold": 27,
+    "sold": 31,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -197,7 +205,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "10",
@@ -205,11 +214,11 @@
     "dimensions": "5,0 x 3,8 cm",
     "image": "it-depends-2.png",
     "inStock": true,
-    "amount": 51,
+    "amount": 43,
     "name": "It depends!",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 30,
+    "sold": 38,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -220,7 +229,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "11",
@@ -228,11 +238,11 @@
     "dimensions": "5,0 x 5,0 cm",
     "image": "typescript-2.png",
     "inStock": true,
-    "amount": 63,
+    "amount": 60,
     "name": "TypeScript",
-    "price": "4.00",
+    "price": "3.50",
     "type": "holographic",
-    "sold": 17,
+    "sold": 20,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -243,7 +253,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "12",
@@ -251,11 +262,11 @@
     "dimensions": "5,0 x 3,8 cm",
     "image": "turn-mfa-2.png",
     "inStock": true,
-    "amount": 44,
+    "amount": 33,
     "name": "Turn on MFA",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 37,
+    "sold": 48,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -266,7 +277,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "13",
@@ -274,11 +286,11 @@
     "dimensions": "5,0 x 3,8 cm",
     "image": "bettertogether-2.png",
     "inStock": true,
-    "amount": 61,
+    "amount": 56,
     "name": "#BetterTogether",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 20,
+    "sold": 25,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -289,7 +301,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "14",
@@ -297,11 +310,11 @@
     "dimensions": "5,5 x 3,1 cm",
     "image": "code-tags-2.png",
     "inStock": true,
-    "amount": 50,
+    "amount": 43,
     "name": "Coding Tags",
-    "price": "3.50",
+    "price": "3.00",
     "type": "transparent",
-    "sold": 33,
+    "sold": 40,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -312,7 +325,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "15",
@@ -320,11 +334,11 @@
     "dimensions": "3,0 x 3,0 cm",
     "image": "rise-by-uplifting-others.png",
     "inStock": true,
-    "amount": 118,
+    "amount": 112,
     "name": "We rise by uplifting others",
     "price": "2.00",
     "type": "holographic",
-    "sold": 36,
+    "sold": 42,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -335,7 +349,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "16",
@@ -356,7 +371,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "17",
@@ -364,11 +380,11 @@
     "dimensions": "6,2 x 3,1 cm",
     "image": "less-code-dress-code-2.png",
     "inStock": true,
-    "amount": 24,
+    "amount": 19,
     "name": "Less code is the new dress code",
-    "price": "3.50",
+    "price": "3.00",
     "type": "transparent",
-    "sold": 34,
+    "sold": 39,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -379,7 +395,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "18",
@@ -400,7 +417,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "19",
@@ -421,7 +439,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "20",
@@ -442,7 +461,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "21",
@@ -450,11 +470,11 @@
     "dimensions": "3,7 x 3,5 cm",
     "image": "makers-gonna-make2.png",
     "inStock": true,
-    "amount": 46,
+    "amount": 35,
     "name": "Makers gonna make",
-    "price": "4.00",
+    "price": "3.50",
     "type": "craft paper",
-    "sold": 34,
+    "sold": 45,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -465,7 +485,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "22",
@@ -486,7 +507,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "23",
@@ -507,7 +529,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "24",
@@ -515,11 +538,11 @@
     "dimensions": "3,0 x 7,2 cm",
     "image": "i-am-a-consultant-2.png",
     "inStock": true,
-    "amount": 51,
+    "amount": 44,
     "name": "I am a consultant",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 29,
+    "sold": 36,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -530,7 +553,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "25",
@@ -538,11 +562,11 @@
     "dimensions": "3,5 x 4,4 cm",
     "image": "teams-meeting-2.png",
     "inStock": true,
-    "amount": 64,
+    "amount": 59,
     "name": "Meetings",
-    "price": "4.00",
+    "price": "3.50",
     "type": "holographic",
-    "sold": 62,
+    "sold": 67,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -551,7 +575,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "26",
@@ -559,11 +584,11 @@
     "dimensions": "8 x 2 cm",
     "image": "pacman2.png",
     "inStock": true,
-    "amount": 37,
+    "amount": 35,
     "name": "Pac-Man",
-    "price": "3.50",
+    "price": "3.00",
     "type": "holographic",
-    "sold": 31,
+    "sold": 33,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -572,7 +597,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "27",
@@ -580,11 +606,11 @@
     "dimensions": "5,0 x 3,3 cm",
     "image": "born-to-share-3.png",
     "inStock": true,
-    "amount": 31,
+    "amount": 20,
     "name": "Born to share",
-    "price": "3.50",
+    "price": "3.00",
     "type": "transparent",
-    "sold": 43,
+    "sold": 54,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -593,7 +619,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "28",
@@ -601,11 +628,11 @@
     "dimensions": "5 x 4.2 cm ",
     "image": "azure-functions-2.png",
     "inStock": true,
-    "amount": 60,
+    "amount": 45,
     "name": "Azure Functions Prompt",
-    "price": "3.50",
+    "price": "3.00",
     "type": "glitter",
-    "sold": 40,
+    "sold": 55,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -616,7 +643,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "29",
@@ -624,11 +652,11 @@
     "dimensions": "5 x 4.2 cm ",
     "image": "translate-dreams-2.png",
     "inStock": true,
-    "amount": 75,
+    "amount": 70,
     "name": "Translate Dreams into Code",
-    "price": "4.00",
+    "price": "3.50",
     "type": "holographic",
-    "sold": 25,
+    "sold": 30,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -639,7 +667,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "30",
@@ -660,7 +689,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "31",
@@ -681,7 +711,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "32",
@@ -689,11 +720,11 @@
     "dimensions": "3,1 x 3,4 cm",
     "image": "automagically-small-2.png",
     "inStock": true,
-    "amount": 73,
+    "amount": 66,
     "name": "Automagically - Small",
     "price": "2.00",
     "type": "glitter",
-    "sold": 66,
+    "sold": 73,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -704,7 +735,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "33",
@@ -712,11 +744,11 @@
     "dimensions": "4.2 x 5.6 cm ",
     "image": "fishing-for-stars-2.png",
     "inStock": true,
-    "amount": 79,
+    "amount": 76,
     "name": "Astronaut",
-    "price": "4.00",
+    "price": "3.50",
     "type": "mirror",
-    "sold": 21,
+    "sold": 24,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -725,7 +757,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "34",
@@ -733,11 +766,11 @@
     "dimensions": "5 x 3.8 cm ",
     "image": "talk-nerdy-to-me-2.png",
     "inStock": true,
-    "amount": 90,
+    "amount": 84,
     "name": "Talk nerdy to me",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 10,
+    "sold": 16,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -748,7 +781,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "35",
@@ -756,11 +790,11 @@
     "dimensions": "5.5 x 4.7 cm ",
     "image": "works-on-my-machine-2.png",
     "inStock": true,
-    "amount": 91,
+    "amount": 64,
     "name": "Works on my machine",
-    "price": "4.00",
+    "price": "3.50",
     "type": "holographic",
-    "sold": 119,
+    "sold": 146,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -772,7 +806,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": "https://teespring.com/en-GB/devops-2021"
+    "teespring": "https://teespring.com/en-GB/devops-2021",
+    "hideHome": false
   },
   {
     "id": "36",
@@ -780,11 +815,11 @@
     "dimensions": " 4.6 x 5 cm ",
     "image": "automagically-large-2.png",
     "inStock": true,
-    "amount": 72,
+    "amount": 68,
     "name": "Automagically - Large",
-    "price": "4.00",
+    "price": "3.50",
     "type": "vinyl",
-    "sold": 28,
+    "sold": 32,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -795,7 +830,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "37",
@@ -818,7 +854,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "38",
@@ -826,11 +863,11 @@
     "dimensions": "5,0 x 3,8 cm",
     "image": "family-support-2.png",
     "inStock": true,
-    "amount": 79,
+    "amount": 75,
     "name": "24/7 family IT support",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 21,
+    "sold": 25,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -841,7 +878,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "39",
@@ -849,11 +887,11 @@
     "dimensions": "5,0 x 3,8 cm",
     "image": "it-was-dns2.png",
     "inStock": true,
-    "amount": 56,
+    "amount": 43,
     "name": "Office Drama - It was DNS",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 44,
+    "sold": 57,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -864,7 +902,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "40",
@@ -872,11 +911,11 @@
     "dimensions": "7 x 7,1 cm",
     "image": "developer-pow-2.png",
     "inStock": true,
-    "amount": 27,
+    "amount": 25,
     "name": "Developer POW!",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 23,
+    "sold": 25,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -887,20 +926,21 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "41",
     "description": "We all know that IE11 is dead, but still, it keeps walking around. Show that it needs to stop its walk, and RIP.",
     "dimensions": "4,6 x 8,5 cm",
     "image": "ie11-zombie-2.png",
-    "inStock": true,
-    "amount": 6,
+    "inStock": false,
+    "amount": 5,
     "name": "IE11 the walking dead",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 44,
-    "forSale": true,
+    "sold": 45,
+    "forSale": false,
     "package": false,
     "toBeReleased": false,
     "category": [
@@ -911,19 +951,20 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "42",
     "description": "Are you a wonder-dev-woman or just love to be a developer? Show your developer love with this awesome sticker.- wonderwoman",
     "dimensions": "6 x 6 cm",
     "image": "wonder-dev2.png",
-    "inStock": true,
-    "amount": 13,
+    "inStock": false,
+    "amount": 5,
     "name": "Power DEV",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 37,
+    "sold": 45,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -934,7 +975,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "43",
@@ -955,19 +997,20 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "44",
     "description": "The PnP Parker Microsoft sticker is based on Microsoft 365 PnP community project logos, mascots (Parker) & community supplied designs. All proceeds will be donated to the Code.org charity.",
     "dimensions": "5,4 x 7 cm",
     "image": "parker-blue-ms-logo.png",
-    "inStock": true,
-    "amount": 14,
+    "inStock": false,
+    "amount": 5,
     "name": "Parker PnP Microsoft (charity)",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 36,
+    "sold": 45,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -978,7 +1021,8 @@
     "communityAuthor": "Microsoft 365 PnP",
     "CommunityAuthorLink": "https://pnp.github.io/",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "45",
@@ -986,11 +1030,11 @@
     "dimensions": "5,4 x 7 cm",
     "image": "parker-purple.png",
     "inStock": true,
-    "amount": 46,
+    "amount": 45,
     "name": "Parker PnP Teams (charity)",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 4,
+    "sold": 5,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1001,7 +1045,8 @@
     "communityAuthor": "Microsoft 365 PnP",
     "CommunityAuthorLink": "https://pnp.github.io/",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "46",
@@ -1009,11 +1054,11 @@
     "dimensions": "5,4 x 7 cm",
     "image": "parker-ms-blue2.png",
     "inStock": true,
-    "amount": 38,
+    "amount": 32,
     "name": "Parker PnP Microsoft Blue (charity)",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 12,
+    "sold": 18,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1024,19 +1069,20 @@
     "communityAuthor": "Microsoft 365 PnP",
     "CommunityAuthorLink": "https://pnp.github.io/",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "47",
-    "description": "The Parker PnP Green t-shirt sticker  is based on Microsoft 365 PnP community project logos, mascots (Parker) & community supplied designs. All proceeds will be donated to the Code.org charity.",
+    "description": "The Parker PnP Green t-shirt sticker  is based on #M365PnP community project logos, mascots (Parker) & community supplied designs. All proceeds will be donated to the @codeorg charity",
     "dimensions": "5,4 x 7 cm",
     "image": "parker-green-pnp.png",
     "inStock": true,
-    "amount": 47,
+    "amount": 39,
     "name": "Parker PnP Green t-shirt (charity)",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 3,
+    "sold": 11,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1047,7 +1093,8 @@
     "communityAuthor": "Microsoft 365 PnP",
     "CommunityAuthorLink": "https://pnp.github.io/",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "49",
@@ -1055,11 +1102,11 @@
     "dimensions": "5,0 x 3,8 cm",
     "image": "sorry-i-was-on-mute2.png",
     "inStock": true,
-    "amount": 18,
+    "amount": 11,
     "name": "Office Drama - Sorry, I was on mute",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 49,
+    "sold": 56,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1070,7 +1117,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "50",
@@ -1078,11 +1126,11 @@
     "dimensions": "5,0 x 3,8 cm",
     "image": "its-not-a-sharepoint-issue.png",
     "inStock": true,
-    "amount": 26,
+    "amount": 20,
     "name": "Office Drama- Yeah It was not a SharePoint issue",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 41,
+    "sold": 47,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1093,7 +1141,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "51",
@@ -1101,11 +1150,11 @@
     "dimensions": "5,0 x 3,8 cm",
     "image": "sorry-something-went-wrong2.png",
     "inStock": true,
-    "amount": 52,
+    "amount": 49,
     "name": "Office Drama - Sorry, something went wrong",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 15,
+    "sold": 18,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1116,7 +1165,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "52",
@@ -1124,11 +1174,11 @@
     "dimensions": "5,0 x 3,8 cm",
     "image": "licensing-killed-adoption2.png",
     "inStock": true,
-    "amount": 26,
+    "amount": 22,
     "name": "Office Drama - Licensing killed our adoption",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 21,
+    "sold": 25,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1139,7 +1189,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "53",
@@ -1147,11 +1198,11 @@
     "dimensions": "5,0 x 3,8 cm",
     "image": "error-404-joke-not-found2.png",
     "inStock": true,
-    "amount": 59,
+    "amount": 57,
     "name": "Office Drama - Error 404 Joke not found",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 8,
+    "sold": 10,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1162,7 +1213,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "54",
@@ -1170,11 +1222,11 @@
     "dimensions": "7.3 x 3 cm ",
     "image": "the-evolution-of-code.png",
     "inStock": true,
-    "amount": 26,
+    "amount": 14,
     "name": "The evolution of code",
-    "price": "3.50",
+    "price": "3.00",
     "type": "metallic",
-    "sold": 34,
+    "sold": 46,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1185,7 +1237,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "Rectangle|Rounded corners",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "55",
@@ -1193,11 +1246,11 @@
     "dimensions": "5 x 3 cm ",
     "image": "powershell-8bit.png",
     "inStock": true,
-    "amount": 30,
+    "amount": 15,
     "name": "PowerShell 8bit logo",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 54,
+    "sold": 69,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1209,7 +1262,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "56",
@@ -1217,11 +1271,11 @@
     "dimensions": "5,5 x 4,6 cm ",
     "image": "power-pow-3.png",
     "inStock": true,
-    "amount": 34,
+    "amount": 32,
     "name": "Power POW!",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 16,
+    "sold": 18,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1232,7 +1286,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "57",
@@ -1242,7 +1297,7 @@
     "inStock": true,
     "amount": 48,
     "name": "Squashing bugs",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 6,
     "forSale": true,
@@ -1255,7 +1310,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "58",
@@ -1263,11 +1319,11 @@
     "dimensions": "3,8 x 5 cm ",
     "image": "spaces-over-tabs2.png",
     "inStock": true,
-    "amount": 53,
+    "amount": 47,
     "name": "Spaces over Tabs / Tabs over Spaces",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 14,
+    "sold": 20,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1278,7 +1334,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "Dark border|White border",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "59",
@@ -1286,11 +1343,11 @@
     "dimensions": "7 x 1 cm",
     "image": "always-be-shipping.png",
     "inStock": true,
-    "amount": 74,
+    "amount": 69,
     "name": "Always be shipping",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 26,
+    "sold": 31,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1302,7 +1359,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": "https://teespring.com/en-GB/always-be-shipping"
+    "teespring": "https://teespring.com/en-GB/always-be-shipping",
+    "hideHome": false
   },
   {
     "id": "60",
@@ -1310,11 +1368,11 @@
     "dimensions": "7 x 2 cm",
     "image": "ship-it.png",
     "inStock": true,
-    "amount": 72,
+    "amount": 67,
     "name": "Ship it - commit history",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 28,
+    "sold": 33,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1326,7 +1384,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": "https://teespring.com/en-GB/pyod-ship-it"
+    "teespring": "https://teespring.com/en-GB/pyod-ship-it",
+    "hideHome": false
   },
   {
     "id": "61",
@@ -1334,11 +1393,11 @@
     "dimensions": "7,6 * 6,6 cm",
     "image": "8bit-heart.png",
     "inStock": true,
-    "amount": 23,
+    "amount": 12,
     "name": "8bit Rainbow Heart",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 24,
+    "sold": 35,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1347,7 +1406,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "62",
@@ -1355,11 +1415,11 @@
     "dimensions": "4,7 x 7,1 cm ",
     "image": "the-dependencies-you-own-end-up-owning-you.png",
     "inStock": true,
-    "amount": 48,
+    "amount": 47,
     "name": "The dependencies you own, end up owning you",
-    "price": "3.50",
+    "price": "3.00",
     "type": "metallic",
-    "sold": 2,
+    "sold": 3,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1370,7 +1430,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "63",
@@ -1378,11 +1439,11 @@
     "dimensions": "6 x 3,8 cm ",
     "image": "i-hate-stickers.png",
     "inStock": true,
-    "amount": 17,
+    "amount": 9,
     "name": "I hate stickers",
-    "price": "4.00",
+    "price": "3.50",
     "type": "metallic",
-    "sold": 30,
+    "sold": 38,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1393,7 +1454,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": "https://teespring.com/en-GB/i-hate-stickers"
+    "teespring": "https://teespring.com/en-GB/i-hate-stickers",
+    "hideHome": false
   },
   {
     "id": "64",
@@ -1401,11 +1463,11 @@
     "dimensions": "5 x 4,1 cm ",
     "image": "never-underestimate-rm-rf.png",
     "inStock": true,
-    "amount": 73,
+    "amount": 70,
     "name": "Never underestimate the power of rm -rf",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 11,
+    "sold": 14,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1417,7 +1479,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "65",
@@ -1425,11 +1488,11 @@
     "dimensions": "8 x 2,2 cm",
     "image": "onprem-sucks.png",
     "inStock": true,
-    "amount": 72,
+    "amount": 56,
     "name": "#OnPremSucks",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 28,
+    "sold": 44,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1442,7 +1505,8 @@
     "communityAuthor": "Michael Roth",
     "CommunityAuthorLink": "https://twitter.com/Gezeitenbrand",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "66",
@@ -1450,11 +1514,11 @@
     "dimensions": "5 x 5 cm",
     "image": "api-day-night.png",
     "inStock": true,
-    "amount": 94,
+    "amount": 90,
     "name": "API by day - IPA by night",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 6,
+    "sold": 10,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1466,7 +1530,8 @@
     "communityAuthor": "Microsoft",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "67",
@@ -1474,11 +1539,11 @@
     "dimensions": "7,5 x 3 cm",
     "image": "regex-cat-keyboard2.png",
     "inStock": true,
-    "amount": 67,
+    "amount": 60,
     "name": "Regex is like a cat running over your keyboard",
-    "price": "4.00",
+    "price": "3.00",
     "type": "metallic",
-    "sold": 13,
+    "sold": 20,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1489,7 +1554,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "68",
@@ -1497,11 +1563,11 @@
     "dimensions": "5 x 3,8 cm",
     "image": "can-you-see-my-screen.png",
     "inStock": true,
-    "amount": 47,
+    "amount": 41,
     "name": "Office Drama - Can you see my screen?",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 13,
+    "sold": 19,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1513,7 +1579,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "69",
@@ -1521,11 +1588,11 @@
     "dimensions": "7 x 3 cm",
     "image": "everything-is-awesome-v2-2.png",
     "inStock": true,
-    "amount": 62,
+    "amount": 59,
     "name": "Everything is awesome V2",
-    "price": "4.00",
+    "price": "3.50",
     "type": "vinyl",
-    "sold": 8,
+    "sold": 11,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1536,7 +1603,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "70",
@@ -1544,11 +1612,11 @@
     "dimensions": "5,5 x 5,6 cm",
     "image": "search-skills.png",
     "inStock": true,
-    "amount": 34,
+    "amount": 27,
     "name": "Good search skills are hard to find",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 16,
+    "sold": 23,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1559,7 +1627,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "71",
@@ -1569,7 +1638,7 @@
     "inStock": true,
     "amount": 76,
     "name": "I Love Stickers",
-    "price": "4.00",
+    "price": "3.50",
     "type": "metallic",
     "sold": 4,
     "forSale": true,
@@ -1582,7 +1651,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": "https://teespring.com/en-GB/i-love-stickers-pyod"
+    "teespring": "https://teespring.com/en-GB/i-love-stickers-pyod",
+    "hideHome": false
   },
   {
     "id": "72",
@@ -1590,11 +1660,11 @@
     "dimensions": "2 x 2 cm",
     "image": "cuties-copy-paste.png",
     "inStock": true,
-    "amount": 93,
+    "amount": 91,
     "name": "CTRL + 💝 cuties",
     "price": "6.00",
     "type": "vinyl",
-    "sold": 7,
+    "sold": 9,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1603,7 +1673,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "73",
@@ -1611,11 +1682,11 @@
     "dimensions": "5,6 x 2,5 cm",
     "image": "princss.png",
     "inStock": true,
-    "amount": 91,
+    "amount": 85,
     "name": "prinCSS",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 9,
+    "sold": 15,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1626,7 +1697,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "74",
@@ -1636,7 +1708,7 @@
     "inStock": true,
     "amount": 100,
     "name": "Developer Avocado - Smile",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 0,
     "forSale": true,
@@ -1649,7 +1721,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "75",
@@ -1659,7 +1732,7 @@
     "inStock": true,
     "amount": 97,
     "name": "Developer Avocado - Moustache",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 3,
     "forSale": true,
@@ -1672,7 +1745,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "76",
@@ -1680,79 +1754,10 @@
     "dimensions": "4,5 x 5 cm",
     "image": "devavocado-cheerful.png",
     "inStock": true,
-    "amount": 96,
-    "name": "Developer Avocado - Cheerful",
-    "price": "3.50",
-    "type": "vinyl",
-    "sold": 4,
-    "forSale": true,
-    "package": false,
-    "toBeReleased": false,
-    "category": [
-      "DEV"
-    ],
-    "community": false,
-    "communityAuthor": "",
-    "CommunityAuthorLink": "",
-    "options": "",
-    "teespring": ""
-  },
-  {
-    "id": "77",
-    "description": "Does this sticker need any explanation? Are you a web 🕸 developer and want to show it? Then this sticker is the right one for you. 🕷",
-    "dimensions": "9 x 2 cm",
-    "image": "webdeveloper.png",
-    "inStock": true,
-    "amount": 97,
-    "name": "WebDev",
-    "price": "3.50",
-    "type": "metallic",
-    "sold": 3,
-    "forSale": true,
-    "package": false,
-    "toBeReleased": false,
-    "category": [
-      "DEV"
-    ],
-    "community": false,
-    "communityAuthor": "",
-    "CommunityAuthorLink": "",
-    "options": "",
-    "teespring": ""
-  },
-  {
-    "id": "78",
-    "description": "We couldn't miss this one in our collection. We heard you, and that is why we bringing you this #JavaScript sticker. ⌨️",
-    "dimensions": "6,8 x 1,5 cm",
-    "image": "javascript.png",
-    "inStock": true,
-    "amount": 100,
-    "name": "JavaScript",
-    "price": "3.50",
-    "type": "vinyl",
-    "sold": 0,
-    "forSale": true,
-    "package": false,
-    "toBeReleased": false,
-    "category": [
-      "DEV"
-    ],
-    "community": false,
-    "communityAuthor": "",
-    "CommunityAuthorLink": "",
-    "options": "",
-    "teespring": ""
-  },
-  {
-    "id": "79",
-    "description": "Nothing can beat that feeling when your flow finally ran successfully, right? Show that with this awesome sticker!",
-    "dimensions": "5,4 x 1 cm",
-    "image": "power-automate.png",
-    "inStock": true,
     "amount": 94,
-    "name": "Your flow ran successfully",
-    "price": "3.50",
-    "type": "metallic",
+    "name": "Developer Avocado - Cheerful",
+    "price": "3.00",
+    "type": "vinyl",
     "sold": 6,
     "forSale": true,
     "package": false,
@@ -1764,7 +1769,80 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "77",
+    "description": "Does this sticker need any explanation? Are you a web 🕸 developer and want to show it? Then this sticker is the right one for you. 🕷",
+    "dimensions": "9 x 2 cm",
+    "image": "webdeveloper.png",
+    "inStock": true,
+    "amount": 92,
+    "name": "WebDev",
+    "price": "3.00",
+    "type": "metallic",
+    "sold": 8,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV"
+    ],
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "78",
+    "description": "We couldn't miss this one in our collection. We heard you, and that is why we bringing you this #JavaScript sticker. ⌨️",
+    "dimensions": "6,8 x 1,5 cm",
+    "image": "javascript.png",
+    "inStock": true,
+    "amount": 100,
+    "name": "JavaScript",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 0,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV"
+    ],
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "79",
+    "description": "Nothing can beat that feeling when your flow finally ran successfully, right? Show that with this awesome sticker!",
+    "dimensions": "5,4 x 1 cm",
+    "image": "power-automate.png",
+    "inStock": true,
+    "amount": 73,
+    "name": "Your flow ran successfully",
+    "price": "3.00",
+    "type": "metallic",
+    "sold": 27,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV"
+    ],
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "80",
@@ -1772,11 +1850,11 @@
     "dimensions": "5 x 3.8 cm",
     "image": "should-work-now.png",
     "inStock": true,
-    "amount": 93,
+    "amount": 88,
     "name": "Office Drama - Should work now",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 7,
+    "sold": 12,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1787,7 +1865,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "81",
@@ -1795,11 +1874,11 @@
     "dimensions": "12 x 1.5 cm",
     "image": "github.png",
     "inStock": true,
-    "amount": 495,
+    "amount": 494,
     "name": "GitHub Commit History",
     "price": "6.00",
     "type": "vinyl",
-    "sold": 5,
+    "sold": 6,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1810,33 +1889,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "GITHUB",
-    "teespring": ""
-  },
-  {
-    "id": "82",
-    "description": "Joining the Scottish Summit? That means that you cannot miss this awesome sticker. #VirtualStillConnected",
-    "dimensions": "9,5 x 3 cm",
-    "image": "ss2021.png",
-    "inStock": true,
-    "amount": 152,
-    "name": "Scottish Summit 2021",
-    "price": "3.50",
-    "type": "vinyl",
-    "sold": 48,
-    "forSale": true,
-    "package": false,
-    "toBeReleased": false,
-    "category": [
-      "DEV",
-      "IT-PRO",
-      "Maker",
-      "Office Drama"
-    ],
-    "community": false,
-    "communityAuthor": "",
-    "CommunityAuthorLink": "",
-    "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "83",
@@ -1844,11 +1898,11 @@
     "dimensions": "6,2 x 2,5 cm",
     "image": "code-happens-2.png",
     "inStock": true,
-    "amount": 88,
+    "amount": 82,
     "name": "Code happens",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 12,
+    "sold": 18,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1859,7 +1913,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "matte|glossy",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "84",
@@ -1867,11 +1922,11 @@
     "dimensions": "8,4 x 3,2 cm",
     "image": "collabsummit-guy.png",
     "inStock": true,
-    "amount": 98,
+    "amount": 96,
     "name": "European Collaboration Summit - guy",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 2,
+    "sold": 4,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1884,7 +1939,8 @@
     "communityAuthor": "European Collaboration Summit",
     "CommunityAuthorLink": "https://www.collabsummit.eu/",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "85",
@@ -1894,7 +1950,7 @@
     "inStock": true,
     "amount": 99,
     "name": "European Collaboration Summit - girl",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 1,
     "forSale": true,
@@ -1909,7 +1965,8 @@
     "communityAuthor": "European Collaboration Summit",
     "CommunityAuthorLink": "https://www.collabsummit.eu/",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "86",
@@ -1917,11 +1974,11 @@
     "dimensions": "4.0 x 4.0 cm",
     "image": "this-is-fine.jpg",
     "inStock": true,
-    "amount": 85,
+    "amount": 73,
     "name": "This is fine",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 15,
+    "sold": 27,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1935,7 +1992,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "87",
@@ -1945,7 +2003,7 @@
     "inStock": true,
     "amount": 98,
     "name": "Spiderman",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 2,
     "forSale": false,
@@ -1958,7 +2016,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "88",
@@ -1966,11 +2025,11 @@
     "dimensions": "4,5 x 4,5 cm",
     "image": "typescript-8bit.png",
     "inStock": true,
-    "amount": 97,
+    "amount": 95,
     "name": "TypeScript 8bit",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 3,
+    "sold": 5,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -1982,7 +2041,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "89",
@@ -1990,11 +2050,11 @@
     "dimensions": "4,5 x 4,5 cm",
     "image": "javascript-8bit.png",
     "inStock": true,
-    "amount": 98,
+    "amount": 96,
     "name": "JavaScript 8bit",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 2,
+    "sold": 4,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2006,7 +2066,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "90",
@@ -2014,11 +2075,11 @@
     "dimensions": "5,7 x 2,8",
     "image": "bit-octo.png",
     "inStock": true,
-    "amount": 94,
+    "amount": 93,
     "name": "BFF Bit & Octocat 8bit",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 6,
+    "sold": 7,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2030,7 +2091,8 @@
     "communityAuthor": "Marc Duiker",
     "CommunityAuthorLink": "https://twitter.com/marcduiker",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "91",
@@ -2040,7 +2102,7 @@
     "inStock": true,
     "amount": 92,
     "name": "Groot Pixel",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 8,
     "forSale": false,
@@ -2053,7 +2115,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "92",
@@ -2063,7 +2126,7 @@
     "inStock": true,
     "amount": 97,
     "name": "Rocket Raccoon Pixel",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 3,
     "forSale": false,
@@ -2076,7 +2139,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "93",
@@ -2086,7 +2150,7 @@
     "inStock": true,
     "amount": 99,
     "name": "Captain America Pixel",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 1,
     "forSale": false,
@@ -2099,7 +2163,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "94",
@@ -2109,7 +2174,7 @@
     "inStock": true,
     "amount": 98,
     "name": "Captain Marvel Pixel",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 2,
     "forSale": false,
@@ -2122,7 +2187,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "95",
@@ -2132,7 +2198,7 @@
     "inStock": true,
     "amount": 97,
     "name": "IronMan Pixel",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 3,
     "forSale": false,
@@ -2145,7 +2211,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "96",
@@ -2155,7 +2222,7 @@
     "inStock": true,
     "amount": 98,
     "name": "Hulk Pixel",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 2,
     "forSale": false,
@@ -2168,7 +2235,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "97",
@@ -2176,11 +2244,11 @@
     "dimensions": "2,1 x 4,2 cm",
     "image": "clippy.png",
     "inStock": true,
-    "amount": 81,
+    "amount": 61,
     "name": "Clippy 8bit",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 19,
+    "sold": 39,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2191,7 +2259,8 @@
     "communityAuthor": "Marc Duiker",
     "CommunityAuthorLink": "https://twitter.com/marcduiker",
     "options": "",
-    "teespring": "https://www.bonfire.com/8-bit-clippy/"
+    "teespring": "https://www.bonfire.com/8-bit-clippy/",
+    "hideHome": false
   },
   {
     "id": "98",
@@ -2199,11 +2268,11 @@
     "dimensions": "5 x 7 cm",
     "image": "ufo.png",
     "inStock": true,
-    "amount": 93,
+    "amount": 82,
     "name": "Who manages the cloud?",
-    "price": "4.00",
+    "price": "3.50",
     "type": "holographic",
-    "sold": 7,
+    "sold": 18,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2215,7 +2284,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "99",
@@ -2223,11 +2293,11 @@
     "dimensions": "5 x 3.8 cm",
     "image": "canyouletmecode.png",
     "inStock": true,
-    "amount": 92,
+    "amount": 91,
     "name": "Office Drama - Just let me code",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 8,
+    "sold": 9,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2239,7 +2309,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "100",
@@ -2247,11 +2318,11 @@
     "dimensions": "7 x 3 cm",
     "image": "justbecauseyoucan.png",
     "inStock": true,
-    "amount": 88,
+    "amount": 58,
     "name": "Just because you can, doesn't mean you should",
-    "price": "4.00",
+    "price": "3.50",
     "type": "holographic",
-    "sold": 12,
+    "sold": 42,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2264,7 +2335,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "101",
@@ -2272,11 +2344,11 @@
     "dimensions": "5 x 5 cm",
     "image": "rubberduck.png",
     "inStock": true,
-    "amount": 93,
+    "amount": 88,
     "name": "Rubber Duck",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 7,
+    "sold": 12,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2287,7 +2359,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "RUBBERDUCK",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "102",
@@ -2297,7 +2370,7 @@
     "inStock": true,
     "amount": 99,
     "name": "Rubber Duck - JavaScript",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 1,
     "forSale": true,
@@ -2310,7 +2383,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "RUBBERDUCK",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "103",
@@ -2318,11 +2392,11 @@
     "dimensions": "5 x 5 cm",
     "image": "rubberduck-ts-2.png",
     "inStock": true,
-    "amount": 100,
+    "amount": 97,
     "name": "Rubber Duck - TypeScript",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 0,
+    "sold": 3,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2333,7 +2407,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "RUBBERDUCK",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "104",
@@ -2341,11 +2416,11 @@
     "dimensions": "6 x 4,5 cm",
     "image": "back-end.png",
     "inStock": true,
-    "amount": 98,
+    "amount": 92,
     "name": "Back-end",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 2,
+    "sold": 8,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2357,7 +2432,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "105",
@@ -2365,11 +2441,11 @@
     "dimensions": "4,5 x 4,5 cm",
     "image": "trouble-maker.png",
     "inStock": true,
-    "amount": 95,
+    "amount": 88,
     "name": "Trouble Maker",
-    "price": "4.00",
+    "price": "3.50",
     "type": "holographic",
-    "sold": 5,
+    "sold": 12,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2380,7 +2456,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": "https://teespring.com/trouble-maker-9646"
+    "teespring": "https://teespring.com/trouble-maker-9646",
+    "hideHome": false
   },
   {
     "id": "106",
@@ -2388,11 +2465,11 @@
     "dimensions": "6,5 x 2,9 cm",
     "image": "i-hate-love-stickers.png",
     "inStock": true,
-    "amount": 98,
+    "amount": 93,
     "name": "I -hate- Love Stickers",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 2,
+    "sold": 7,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2401,7 +2478,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": "https://teespring.com/i-hate-love-stickers-dark"
+    "teespring": "https://teespring.com/i-hate-love-stickers-dark",
+    "hideHome": false
   },
   {
     "id": "107",
@@ -2409,11 +2487,11 @@
     "dimensions": "4,5 x 4,5 cm",
     "image": "thisisnotasticker.png",
     "inStock": true,
-    "amount": 96,
+    "amount": 91,
     "name": "This is not a sticker",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 4,
+    "sold": 9,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2426,7 +2504,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "108",
@@ -2434,12 +2513,12 @@
     "dimensions": "4,8 x 4,6 cm",
     "image": "ss2021-quiz2.png",
     "inStock": true,
-    "amount": 7,
+    "amount": 6,
     "name": "Scottish Summit Pub Quiz Team Rainbow Pony -2",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 13,
-    "forSale": true,
+    "sold": 14,
+    "forSale": false,
     "package": false,
     "toBeReleased": false,
     "category": [
@@ -2451,7 +2530,8 @@
     "communityAuthor": "Michael Roth",
     "CommunityAuthorLink": "https://www.twitter.com/gezeitenbrand",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "109",
@@ -2461,10 +2541,10 @@
     "inStock": true,
     "amount": 10,
     "name": "Scottish Summit Pub Quiz Team Rainbow Pony -1",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 10,
-    "forSale": true,
+    "forSale": false,
     "package": false,
     "toBeReleased": false,
     "category": [
@@ -2476,7 +2556,8 @@
     "communityAuthor": "Michael Roth",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "110",
@@ -2484,11 +2565,11 @@
     "dimensions": "4,8 x 3,3 cm",
     "image": "powerplatty_bi.png",
     "inStock": true,
-    "amount": 98,
+    "amount": 88,
     "name": "PowerPlatty BI 8bit",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 2,
+    "sold": 12,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2499,7 +2580,8 @@
     "communityAuthor": "Marc Duiker",
     "CommunityAuthorLink": "https://twitter.com/marcduiker",
     "options": "",
-    "teespring": "https://www.bonfire.com/8-bit-powerplatty-bi/"
+    "teespring": "https://www.bonfire.com/8-bit-powerplatty-bi/",
+    "hideHome": false
   },
   {
     "id": "111",
@@ -2507,11 +2589,11 @@
     "dimensions": "4,8 x 3 cm",
     "image": "powerplatty_agents.png",
     "inStock": true,
-    "amount": 99,
+    "amount": 92,
     "name": "PowerPlatty Virtual Agents 8bit",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 1,
+    "sold": 8,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2522,7 +2604,8 @@
     "communityAuthor": "Marc Duiker",
     "CommunityAuthorLink": "https://twitter.com/marcduiker",
     "options": "",
-    "teespring": "https://www.bonfire.com/8-bit-powerplatty-virtual-agents/"
+    "teespring": "https://www.bonfire.com/8-bit-powerplatty-virtual-agents/",
+    "hideHome": false
   },
   {
     "id": "112",
@@ -2530,11 +2613,11 @@
     "dimensions": "4,4 x 3 cm",
     "image": "powerplatty_apps.png",
     "inStock": true,
-    "amount": 98,
+    "amount": 84,
     "name": "PowerPlatty Apps 8bit",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 2,
+    "sold": 16,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2545,7 +2628,8 @@
     "communityAuthor": "Marc Duiker",
     "CommunityAuthorLink": "https://twitter.com/marcduiker",
     "options": "",
-    "teespring": "https://www.bonfire.com/powerplatty-power-apps/"
+    "teespring": "https://www.bonfire.com/powerplatty-power-apps/",
+    "hideHome": false
   },
   {
     "id": "113",
@@ -2553,11 +2637,11 @@
     "dimensions": "4,7 x 3 cm",
     "image": "powerplatty_automate.png",
     "inStock": true,
-    "amount": 98,
+    "amount": 85,
     "name": "PowerPlatty Automate 8bit",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 2,
+    "sold": 15,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2566,7 +2650,8 @@
     "communityAuthor": "Marc Duiker",
     "CommunityAuthorLink": "https://twitter.com/marcduiker",
     "options": "",
-    "teespring": "https://www.bonfire.com/8-bit-powerplatty-automate/"
+    "teespring": "https://www.bonfire.com/8-bit-powerplatty-automate/",
+    "hideHome": false
   },
   {
     "id": "114",
@@ -2576,7 +2661,7 @@
     "inStock": true,
     "amount": 100,
     "name": "Your task failed successfully",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
     "sold": null,
     "forSale": true,
@@ -2591,7 +2676,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "115",
@@ -2599,11 +2685,11 @@
     "dimensions": "6 x 2 cm",
     "image": "yourtenantormine.png",
     "inStock": true,
-    "amount": 100,
+    "amount": 67,
     "name": "Your tenant or mine?",
-    "price": "3.50",
+    "price": "3.00",
     "type": "vinyl",
-    "sold": 0,
+    "sold": 33,
     "forSale": true,
     "package": false,
     "toBeReleased": false,
@@ -2616,7 +2702,8 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
   },
   {
     "id": "116",
@@ -2624,9 +2711,205 @@
     "dimensions": null,
     "image": "lostinteams.png",
     "inStock": true,
-    "amount": 100,
+    "amount": 94,
     "name": "Lost in Teams",
-    "price": "3.50",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 6,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV",
+      "Maker",
+      "IT-PRO"
+    ],
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "117",
+    "description": "Show your support for Front Matter with this sticker.",
+    "dimensions": "5 x 3.5 cm",
+    "image": "frontmatter-teal.png",
+    "inStock": true,
+    "amount": 497,
+    "name": "Front Matter - Teal",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 3,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "FrontMatter"
+    ],
+    "community": true,
+    "communityAuthor": "Front Matter",
+    "CommunityAuthorLink": "https://frontmatter.codes",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "118",
+    "description": "Show your support for Front Matter with this sticker.",
+    "dimensions": "5 x 3.5 cm",
+    "image": "frontmatter-white.png",
+    "inStock": true,
+    "amount": 499,
+    "name": "Front Matter - White",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 1,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "FrontMatter"
+    ],
+    "community": true,
+    "communityAuthor": "Front Matter",
+    "CommunityAuthorLink": "https://frontmatter.codes",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "119",
+    "description": "Show your support for Front Matter with this sticker.",
+    "dimensions": "5 x 3.5 cm",
+    "image": "frontmatter-magenta.png",
+    "inStock": true,
+    "amount": 497,
+    "name": "Front Matter - Magenta",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 3,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "FrontMatter"
+    ],
+    "community": true,
+    "communityAuthor": "Front Matter",
+    "CommunityAuthorLink": "https://frontmatter.codes",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "120",
+    "description": "It looks like you're trying to pimp your terminal.",
+    "dimensions": "5,2 x 3,5 cm",
+    "image": "ohmyposh-3.png",
+    "inStock": true,
+    "amount": 499,
+    "name": "Terminal Assistant",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 1,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV"
+    ],
+    "community": true,
+    "communityAuthor": "Design by Marc Duiker",
+    "CommunityAuthorLink": "https://ohmyposh.dev",
+    "options": "",
+    "teespring": "https://oh-my-posh-2.creator-spring.com/listing/win-xp",
+    "hideHome": false
+  },
+  {
+    "id": "121",
+    "description": "How about a nice developer experience?",
+    "dimensions": "5,2 x 3,5 cm",
+    "image": "ohmyposh-2.png",
+    "inStock": true,
+    "amount": 497,
+    "name": "Developers Developers Developers",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 3,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV"
+    ],
+    "community": true,
+    "communityAuthor": "Design by Marc Duiker",
+    "CommunityAuthorLink": "https://ohmyposh.dev/",
+    "options": "",
+    "teespring": "https://oh-my-posh-2.creator-spring.com/listing/windows-terminal",
+    "hideHome": false
+  },
+  {
+    "id": "122",
+    "description": "Trapped in the ecosystem.",
+    "dimensions": "5,2 x 3,5 cm",
+    "image": "ohmyposh-1.png",
+    "inStock": true,
+    "amount": 497,
+    "name": "One more thing!",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 3,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV"
+    ],
+    "community": true,
+    "communityAuthor": "Design by Marc Duiker",
+    "CommunityAuthorLink": "https://ohmyposh.dev/",
+    "options": "",
+    "teespring": "https://oh-my-posh-2.creator-spring.com/listing/iterm",
+    "hideHome": false
+  },
+  {
+    "id": "123",
+    "description": "Your SharePoint List is not a relational database - JSYK",
+    "dimensions": "5 x 5 cm",
+    "image": "sharepoint-list.png",
+    "inStock": true,
+    "amount": 91,
+    "name": "SharePoint is not a database",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 9,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "IT-PRO",
+      "Maker",
+      "DEV"
+    ],
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "124",
+    "description": "This a quote we believe everyone should follow their dreams.",
+    "dimensions": "4 x 3 cm",
+    "image": "dream-it-yellow.png",
+    "inStock": true,
+    "amount": 16,
+    "name": "Dream It, believe It, Achieve It (limited edition - yellow)",
+    "price": "3.00",
     "type": "vinyl",
     "sold": 0,
     "forSale": true,
@@ -2641,6 +2924,235 @@
     "communityAuthor": "",
     "CommunityAuthorLink": "",
     "options": "",
-    "teespring": ""
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "125",
+    "description": "This a quote we believe everyone should follow their dreams.",
+    "dimensions": "4 x 3 cm",
+    "image": "dream-it-orange.png",
+    "inStock": true,
+    "amount": 16,
+    "name": "Dream It, believe It, Achieve It (limited edition - orange)",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 0,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "IT-PRO",
+      "DEV",
+      "Maker"
+    ],
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "126",
+    "description": "This a quote we believe everyone should follow their dreams.",
+    "dimensions": "4 x 3 cm",
+    "image": "dream-it-pink.png",
+    "inStock": true,
+    "amount": 16,
+    "name": "Dream It, believe It, Achieve It (limited edition - pink)",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 0,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": null,
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "127",
+    "description": "Meet the hilarious \"Stop Scrolling, Start Coding\" sticker! Transform procrastination into motivation with this cheeky decal. Perfect for laptops, water bottles, or any smooth surface. Adios cat videos, hello productivity! Get yours & code on with a grin. 😂🚀",
+    "dimensions": null,
+    "image": "2023_stop-scrolling_start-coding.png",
+    "inStock": true,
+    "amount": 999,
+    "name": "Stop scrolling, start coding",
+    "price": "3.50",
+    "type": "holographic",
+    "sold": 1,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV"
+    ],
+    "community": true,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "128",
+    "description": "Introducing the \"To the Cloud and Beyond\" product - an innovative fusion of technology and imagination! ☁️🚀 Embrace the limitless potential of cloud computing while capturing the adventurous spirit of the unknown. Perfect for tech enthusiasts and dreamers alike, this item will inspire you to soar to new heights! #CloudExplorers",
+    "dimensions": null,
+    "image": "2023_to-the-cloud-and-beyond.png",
+    "inStock": true,
+    "amount": 998,
+    "name": "To the cloud and beyond",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 2,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV",
+      "Maker",
+      "IT-PRO"
+    ],
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "129",
+    "description": "Introducing our \"Show Me the Docs\" sticker - a tribute to every developer's ultimate savior, documentation! 📚💡 Celebrate the power of clear, concise guides that help you confidently navigate code. Perfect for devs who know that well-documented code is a programmer's best friend. #DocLoversUnite",
+    "dimensions": null,
+    "image": "2023_show-me-the-docs.png",
+    "inStock": true,
+    "amount": 998,
+    "name": "Show me the docs",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 2,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV",
+      "IT-PRO",
+      "Maker"
+    ],
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "130",
+    "description": "A playful nod to the tenacity and skill of developers everywhere! 💻🛠️ Celebrate your triumphs over tricky bugs and glitches with this tongue-in-cheek design. Perfect for programmers who conquer code with swagger and style. #GlitchBusters",
+    "dimensions": null,
+    "image": "2023_glitch.png",
+    "inStock": true,
+    "amount": 995,
+    "name": "I've got 99 problems but a glitch ain't one",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 5,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV",
+      "IT-PRO",
+      "Maker"
+    ],
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "131",
+    "description": "This a cheeky tribute to every procrastinator's struggle! 😂💤 Combining developer humor with the universal quest for motivation, this design is perfect for those who find laughter in life's loading errors. Embrace the irony and let your inner slacker shine! #MotivationNotFound",
+    "dimensions": null,
+    "image": "2023_motivation.png",
+    "inStock": true,
+    "amount": 998,
+    "name": "404 - Motivation not found",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 2,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV",
+      "IT-PRO",
+      "Maker"
+    ],
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "132",
+    "description": "A sassy, humorous way to set boundaries and keep unwanted conversations at bay! 😏🚫 Perfect for introverts, busy bees, or anyone who values their personal space, this witty design lets you make a statement without saying a word. Embrace the power of humor to maintain your peace!",
+    "dimensions": null,
+    "image": "2023_not-interested.png",
+    "inStock": true,
+    "amount": 997,
+    "name": "Hello! I am: not interested",
+    "price": "3.00",
+    "type": "vinyl",
+    "sold": 3,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "IT-PRO",
+      "Maker",
+      "DEV"
+    ],
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
+  },
+  {
+    "id": "133",
+    "description": "Showcase your coding expertise and sense of humor with our 'git commit -m \"fixed 💩\"' sticker. This witty design captures the essence of the git commit command with a touch of lightheartedness. Whether you're a seasoned programmer or just getting started, this sticker lets you proudly display your problem-solving skills while adding a playful twist. Perfect for laptops, notebooks, or any coding-related gear, it's a fun way to show off your commitment to clean code and the joy of debugging. Get ready to spread some coding humor and inspire fellow developers with this hilarious sticker!",
+    "dimensions": "8,2x4",
+    "image": "2023-git-commit-fixed.png",
+    "inStock": true,
+    "amount": 1000,
+    "name": "Code Saver: Fixing the 💩",
+    "price": "3.50",
+    "type": "holographic",
+    "sold": 0,
+    "forSale": true,
+    "package": false,
+    "toBeReleased": false,
+    "category": [
+      "DEV",
+      "IT-PRO",
+      "Maker"
+    ],
+    "community": false,
+    "communityAuthor": "",
+    "CommunityAuthorLink": "",
+    "options": "",
+    "teespring": "",
+    "hideHome": false
   }
 ]

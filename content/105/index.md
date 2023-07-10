@@ -8,5 +8,5 @@ community: false
 type: stickers
 slug: "105"
 image: "https://ik.imagekit.io/pyodstickers/stickers/trouble-maker.png"
-price: "4.00"
+price: "3.50"
 ---

@@ -8,5 +8,5 @@ community: false
 type: stickers
 slug: "116"
 image: "https://ik.imagekit.io/pyodstickers/stickers/lostinteams.png"
-price: "3.50"
+price: "3.00"
 ---

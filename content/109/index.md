@@ -8,5 +8,5 @@ community: true
 type: stickers
 slug: "109"
 image: "https://ik.imagekit.io/pyodstickers/stickers/ss2021-quiz1.png"
-price: "3.50"
+price: "3.00"
 ---
