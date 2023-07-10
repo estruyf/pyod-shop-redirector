@@ -32,10 +32,6 @@ const stickersTxt = fs.readFileSync(path.join(__dirname, `../stickers.json`), {
 });
 
 const alias = (sticker) => {
-  if (sticker.id == 133) {
-    return `code-saver-fixing-the-`;
-  }
-
   return sticker.name.toLowerCase().replace(/[^\w\s]/gi, '').replace(/ /g, '-').trim();
 }
 
