@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "generate": "node scripts/create-stickers.js",
+    "compile": "npm run generate && hugo --gc --minify",
     "start": "hugo serve --gc",
     "build": "hugo -e development",
     "ngrok": "npm-run-all --parallel ngrok:* theme:*",
