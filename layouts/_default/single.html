@@ -1,5 +1,5 @@
 {{ define "header" }}
-  {{ $slugPart := cond .Params.community "community" "stickers" }}
+  {{ $slugPart := cond (eq .Type "charity") "charity" (cond .Params.community "community" "stickers") }}
   {{ $url := printf "%s/%s/%s/" (.Site.Params.storeUrl) $slugPart (urlize .Params.orgSlug) }}
   {{ if not .IsHome }}
     <meta http-equiv="refresh" content="0; url = {{ $url }}" />
@@ -7,7 +7,7 @@
 {{ end }}
 
 {{ define "main" }}
-  {{ $slugPart := cond .Params.community "community" "stickers" }}
+  {{ $slugPart := cond (eq .Type "charity") "charity" (cond .Params.community "community" "stickers") }}
   {{ $url := printf "%s/%s/%s/" (.Site.Params.storeUrl) $slugPart (urlize .Params.orgSlug) }}
   <h1>
     We'll redirect you to: <a href="{{ $url }}" title="{{.Title}}">{{ $url }}</a>
