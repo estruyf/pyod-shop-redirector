@@ -7,6 +7,7 @@ description: >-
   well. Developers unite!
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '104'
 image: https://ik.imagekit.io/pyodstickers/stickers/back-end.png

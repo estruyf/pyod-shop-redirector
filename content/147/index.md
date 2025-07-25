@@ -12,6 +12,7 @@ description: >-
   conversation starter for any tech workspace!
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '147'
 image: >-

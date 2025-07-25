@@ -5,6 +5,7 @@ orgSlug: just-because-you-can-doesnt-mean-you-should
 description: 'As consultants and developers, we say this almost every day... '
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '100'
 image: https://ik.imagekit.io/pyodstickers/stickers/justbecauseyoucan.png

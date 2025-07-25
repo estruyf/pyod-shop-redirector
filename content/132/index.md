@@ -9,6 +9,7 @@ description: >-
   word. Embrace the power of humor to maintain your peace!
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '132'
 image: https://ik.imagekit.io/pyodstickers/stickers/2023_not-interested.png

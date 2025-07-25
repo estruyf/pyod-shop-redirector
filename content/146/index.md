@@ -13,6 +13,7 @@ description: >-
   they’re not alone.
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '146'
 image: https://ik.imagekit.io/pyodstickers/stickers/2025-its-ok-not-to-be-ok.png

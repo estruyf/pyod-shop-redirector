@@ -9,6 +9,7 @@ description: >-
   Shirts and Hoodies are available at our Teespring store.
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '105'
 image: https://ik.imagekit.io/pyodstickers/stickers/trouble-maker.png

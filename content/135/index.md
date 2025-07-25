@@ -8,6 +8,7 @@ description: >-
   Perfect for developers who appreciate a playful nod to web history!
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '135'
 image: https://ik.imagekit.io/pyodstickers/stickers/418-teapot.png

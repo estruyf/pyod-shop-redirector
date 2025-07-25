@@ -9,6 +9,7 @@ description: >-
   seriously.
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '134'
 image: https://ik.imagekit.io/pyodstickers/stickers/typescript-bear.png

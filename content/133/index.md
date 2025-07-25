@@ -13,6 +13,7 @@ description: >-
   coding humor and inspire fellow developers with this hilarious sticker!
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '133'
 image: https://ik.imagekit.io/pyodstickers/stickers/2023-git-commit-fixed.png

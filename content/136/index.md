@@ -9,6 +9,7 @@ description: >-
   individuals and organizations!
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '136'
 image: https://ik.imagekit.io/pyodstickers/stickers/gdpr-says-no.png

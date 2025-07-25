@@ -8,6 +8,7 @@ description: >-
   your workspace and sharing the joy of programming with others.
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '139'
 image: https://ik.imagekit.io/pyodstickers/stickers/2023-happy-coding.png

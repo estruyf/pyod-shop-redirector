@@ -5,6 +5,7 @@ orgSlug: terminal-assistant
 description: It looks like you're trying to pimp your terminal.
 draft: false
 community: true
+charity: false
 type: stickers
 slug: '120'
 image: https://ik.imagekit.io/pyodstickers/stickers/ohmyposh-3.png

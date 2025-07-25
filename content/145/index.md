@@ -12,6 +12,7 @@ description: >-
   of opening things without thinking twice!
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '145'
 image: https://ik.imagekit.io/pyodstickers/stickers/2025-do-not-open.png

@@ -8,6 +8,7 @@ description: >-
   you go 🐥🦆
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '101'
 image: https://ik.imagekit.io/pyodstickers/stickers/rubberduck.png

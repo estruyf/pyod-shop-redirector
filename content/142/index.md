@@ -9,6 +9,7 @@ description: >-
   world.
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '142'
 image: >-

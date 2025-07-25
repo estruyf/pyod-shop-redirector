@@ -9,6 +9,7 @@ description: >-
   a break!
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '138'
 image: https://ik.imagekit.io/pyodstickers/stickers/429-too-many-requests.png

@@ -10,6 +10,7 @@ description: >-
   heights! #CloudExplorers
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '128'
 image: https://ik.imagekit.io/pyodstickers/stickers/2023_to-the-cloud-and-beyond.png

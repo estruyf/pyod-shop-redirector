@@ -24,6 +24,7 @@ description: >-
   Yves](https://www.komoptegenkanker.be/de-1000km/steun-een-team/a2870adf-f684-44cb-898d-00de5fffe1b7)
 draft: false
 community: false
+charity: true
 type: stickers
 slug: '149'
 image: https://ik.imagekit.io/pyodstickers/stickers/2025-kotk-yves.png

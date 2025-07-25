@@ -9,6 +9,7 @@ description: >-
   to respect data protection rules.
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '137'
 image: https://ik.imagekit.io/pyodstickers/stickers/police-gdpr-stop.png

@@ -7,6 +7,7 @@ description: >-
   flow!
 draft: false
 community: true
+charity: false
 type: stickers
 slug: '113'
 image: https://ik.imagekit.io/pyodstickers/stickers/powerplatty_automate.png

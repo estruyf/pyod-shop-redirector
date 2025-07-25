@@ -9,6 +9,7 @@ description: >-
   and style. #GlitchBusters
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '130'
 image: https://ik.imagekit.io/pyodstickers/stickers/2023_glitch.png

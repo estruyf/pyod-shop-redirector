@@ -5,6 +5,7 @@ orgSlug: sharepoint-is-not-a-database
 description: Your SharePoint List is not a relational database - JSYK
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '123'
 image: https://ik.imagekit.io/pyodstickers/stickers/sharepoint-list.png

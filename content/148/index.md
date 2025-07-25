@@ -10,6 +10,7 @@ description: >-
   shine. Cute but fierce 🌸🔥
 draft: false
 community: true
+charity: false
 type: stickers
 slug: '148'
 image: https://ik.imagekit.io/pyodstickers/stickers/2025-fck-off.png

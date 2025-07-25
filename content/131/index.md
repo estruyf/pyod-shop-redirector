@@ -9,6 +9,7 @@ description: >-
   irony and let your inner slacker shine! #MotivationNotFound
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '131'
 image: https://ik.imagekit.io/pyodstickers/stickers/2023_motivation.png

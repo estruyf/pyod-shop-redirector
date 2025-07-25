@@ -7,6 +7,7 @@ description: >-
   you are lost? We as well. 
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '116'
 image: https://ik.imagekit.io/pyodstickers/stickers/lostinteams.png

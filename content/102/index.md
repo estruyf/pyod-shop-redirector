@@ -8,6 +8,7 @@ description: >-
   you go.  This Rubber Duck will help you debug your JavaScript code.
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '102'
 image: https://ik.imagekit.io/pyodstickers/stickers/rubberduck-js.png

@@ -12,6 +12,7 @@ description: >-
   who’s learned the hard way that touching what works can lead to disaster.
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '141'
 image: >-

@@ -5,6 +5,7 @@ orgSlug: powerplatty-apps-8bit
 description: 'Power Apps: Love creating Power Apps? This sticker will make you (h)appy!'
 draft: false
 community: true
+charity: false
 type: stickers
 slug: '112'
 image: https://ik.imagekit.io/pyodstickers/stickers/powerplatty_apps.png

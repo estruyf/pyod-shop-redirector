@@ -8,6 +8,7 @@ description: >-
   up. It's the perfect way to convey your low-energy days humorously.
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '140'
 image: https://ik.imagekit.io/pyodstickers/stickers/2023-still-booting.png

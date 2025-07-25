@@ -8,6 +8,7 @@ description: >-
   you go. This Rubber Duck will help you debug your TypeScript code.
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '103'
 image: https://ik.imagekit.io/pyodstickers/stickers/rubberduck-ts-2.png

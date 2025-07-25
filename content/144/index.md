@@ -12,6 +12,7 @@ description: >-
   refreshed. After all, a well-rested mind is a productive mind!
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '144'
 image: >-

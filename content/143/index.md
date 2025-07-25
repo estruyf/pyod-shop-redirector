@@ -13,6 +13,7 @@ description: >-
   the IT world and beyond.
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '143'
 image: >-

@@ -5,6 +5,7 @@ orgSlug: your-tenant-or-mine
 description: 'the geeky equivalent to "your apartment or mine?" '
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '115'
 image: https://ik.imagekit.io/pyodstickers/stickers/yourtenantormine.png

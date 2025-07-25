@@ -7,6 +7,7 @@ description: >-
   This is not a sticker. 
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '107'
 image: https://ik.imagekit.io/pyodstickers/stickers/thisisnotasticker.png

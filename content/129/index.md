@@ -9,6 +9,7 @@ description: >-
   well-documented code is a programmer's best friend. #DocLoversUnite
 draft: false
 community: false
+charity: false
 type: stickers
 slug: '129'
 image: https://ik.imagekit.io/pyodstickers/stickers/2023_show-me-the-docs.png
