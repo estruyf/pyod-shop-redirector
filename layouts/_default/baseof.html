@@ -4,17 +4,6 @@
     {{ with .Title }}<title>{{ . }}</title>{{ end }}
     {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 
-    <script>
-      (function(e,t,n,i,s,a,c){e[n]=e[n]||function(){(e[n].q=e[n].q||[]).push(arguments)}
-      ;a=t.createElement(i);c=t.getElementsByTagName(i)[0];a.async=true;a.src=s
-      ;c.parentNode.insertBefore(a,c)
-      })(window,document,"galite","script","https://cdn.jsdelivr.net/npm/ga-lite@2/dist/ga-lite.min.js");
-      
-      galite('create', '{{ $.Site.GoogleAnalytics }}', 'auto');
-      galite('set', 'anonymizeIp', true);
-      galite('send', 'pageview');
-    </script>
-
     <meta charset="utf-8">
     <meta name="robots" content="nofollow">
     <meta http-equiv="content-type" content="text/html; charset=utf-8">  
