@@ -1,5 +1,5 @@
 ---
-id: '149'
+id: "149"
 title: '"Suffering is only temporary, giving up lasts forever" - Yves’ Tribute Sticker'
 orgSlug: suffering-is-only-temporary-giving-up-lasts-forever--yves-tribute-sticker
 description: >-
@@ -26,7 +26,7 @@ draft: false
 community: false
 charity: true
 type: stickers
-slug: '149'
+slug: "149"
 image: https://ik.imagekit.io/pyodstickers/stickers/2025-kotk-yves.png
-price: '3.50'
+price: "3.50"
 ---
