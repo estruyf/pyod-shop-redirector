@@ -2,6 +2,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const yaml = require('js-yaml');
 
 /**
  * Add leading zeros
@@ -52,19 +53,20 @@ if (stickersTxt) {
       }
     }
 
-    const stickerPage = `---
-id: ${sticker.id}
-title: "${sticker.name}"
-orgSlug: "${alias(sticker)}"
-description: "${sticker.description.replace(/"/g, `\\"`)}"
-draft: false
-community: ${sticker.community}
-type: stickers
-slug: "${folderName}"
-image: "https://ik.imagekit.io/pyodstickers/stickers/${sticker.image}"
-price: "${sticker.price}"
----
-`;
+    const stickerData = {
+      id: sticker.id,
+      title: sticker.name,
+      orgSlug: alias(sticker),
+      description: sticker.description,
+      draft: false,
+      community: sticker.community,
+      type: 'stickers',
+      slug: folderName,
+      image: `https://ik.imagekit.io/pyodstickers/stickers/${sticker.image}`,
+      price: sticker.price
+    };
+
+    const stickerPage = `---\n${yaml.dump(stickerData)}---\n`;
 
     fs.writeFileSync(path.join(folderDir, `index.md`), stickerPage, {
       encoding: "utf8"
