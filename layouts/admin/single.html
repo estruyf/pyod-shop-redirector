@@ -55,7 +55,7 @@
     <div class="pure-u-1-4"><strong>Original</strong></div>
   </div>
   {{ range sort (where .Site.Pages "Type" "stickers") ".Params.id" "desc" }}
-    {{ $slugPart := cond (eq .Type "charity") "charity" (cond .Params.community "community" "stickers") }}
+    {{ $slugPart := (cond .Params.charity "charity" (cond .Params.community "community" "stickers")) }}
     {{ $url := printf "%s/%s/%s/" (.Site.Params.storeUrl) $slugPart (urlize .Params.orgSlug) }}
     <div class="pure-g">
       <div class="pure-u-1-4">{{ .Title }}</div>

@@ -53,6 +53,8 @@ if (stickersTxt) {
       }
     }
 
+    const isCharity = categories.some(cat => cat.toLowerCase().includes('charity'));
+
     const stickerData = {
       id: sticker.id,
       title: sticker.name,
@@ -60,6 +62,7 @@ if (stickersTxt) {
       description: sticker.description,
       draft: false,
       community: sticker.community,
+      charity: isCharity,
       type: 'stickers',
       slug: folderName,
       image: `https://ik.imagekit.io/pyodstickers/stickers/${sticker.image}`,
